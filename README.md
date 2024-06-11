@@ -1,4 +1,7 @@
 # cluster_paises
+
+### * Exercício de exemplo do MBA USP/Esalq
+
 Este projeto realiza uma análise de clusterização de países com base em diversas características socioeconômicas. Utilizando técnicas de clusterização hierárquica e K-means, buscamos agrupar países com perfis semelhantes, o que pode ser útil para análises econômicas, políticas e sociais.
 
 Problema de Negócio
