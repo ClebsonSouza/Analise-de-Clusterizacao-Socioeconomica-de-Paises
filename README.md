@@ -1,6 +1,6 @@
-# cluster_paises
+# Projeto Cluster Paises
 
-### * Exercício de exemplo do MBA USP/Esalq em Data Science e Analytics
+### * Exercício adaptado do MBA USP/Esalq em Data Science e Analytics
 
 Este projeto realiza uma análise de clusterização de países com base em diversas características socioeconômicas. Utilizando técnicas de clusterização hierárquica e K-means, buscamos agrupar países com perfis semelhantes, o que pode ser útil para análises econômicas, políticas e sociais.
 
