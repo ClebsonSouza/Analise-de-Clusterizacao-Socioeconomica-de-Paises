@@ -1,4 +1,4 @@
-# Projeto Cluster Paises
+# Explorando Similaridades Nacionais: Clusterização de Dados Socioeconômicos
 
 ### * Exercício adaptado do MBA USP/Esalq em Data Science e Analytics
 
