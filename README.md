@@ -8,6 +8,7 @@ Problema de Negócio
 Agrupar países com características semelhantes pode fornecer insights valiosos para formuladores de políticas, economistas e pesquisadores. A clusterização ajuda a identificar padrões e tendências que podem não ser evidentes em análises individuais.
 
 Estrutura do Projeto
+
 1. Carregamento dos Dados
 Carregamos a base de dados a partir do arquivo CSV dados_paises.csv, contendo diversas variáveis socioeconômicas sobre os países.
 
